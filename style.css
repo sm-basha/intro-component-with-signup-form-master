@@ -1,0 +1,49 @@
+body{
+    background-image: url(images/bg-intro-desktop.png);
+    background-color: hsl(0, 100%, 74%);
+    font-family: 'Poppins', sans-serif;
+    padding: 70px 180px 10px;
+    font-size: 14px;
+}
+h1{font-weight: 700;}
+
+.box1{
+    color: #fff; 
+    line-height: 1.8rem;
+    margin-top: 200px;
+}
+
+.cardBox{
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.btn1{
+    background-color: hsl(248, 32%, 49%); 
+    color: #fff;
+    border-radius: 10px;
+
+height: 70px;}
+.btn2{background-color: hsl(154, 59%, 51%);margin-bottom: 15px;}
+
+.formTxt{
+    text-align: right;
+    font-style: italic;
+    font-size: 10px;
+}
+.form-control{
+    height: 50px;
+}
+
+.attribution { font-size: 11px; text-align: center; margin-top: 70px; color: #000; }
+.attribution a { color: #fff; }
+
+
+/* Media Query */
+
+@media(max-width:900px){
+    body{padding:  30px;}
+    .box1{margin-top: 30px; text-align: center  ;}
+
+}
