@@ -30,11 +30,16 @@ height: 70px;}
 .formTxt{
     text-align: right;
     font-style: italic;
-    font-size: 10px;
+    font-size: 12px;
 }
 .form-control{
     height: 50px;
 }
+.tryit{font-weight: 600; font-size: 18px;}
+span{font-size: 14px; font-weight: 10;}
+.ts1{font-size: 12px;}
+.ts2{color: red;}
+.ts2:hover{font-weight: bold;}
 
 .attribution { font-size: 11px; text-align: center; margin-top: 70px; color: #000; }
 .attribution a { color: #fff; }
